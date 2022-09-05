@@ -1,5 +1,5 @@
 
-# Scraping From API.
+# Scraping From API (sunglasshut.com).
 The goal of this project is to extract product information from the sunglasshut.com to create a clean dataset which can be use for Data Analysis in the future. 
 This project is for Experienced scraper, who can  help me to improve my code and help me to detect certain errors in the project.
 
